@@ -7,5 +7,7 @@ In this example the script will catch some OS information and HW information.
 
 It's necessary pre configure ssh key exchange.
 
+This was devolep as an example to GFI Portugal
+
 Jose Almeida
 josemedeirosdealmeida@gmail.com
